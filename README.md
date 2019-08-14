@@ -1,2 +1,0 @@
-Ayana's presonal profile
-

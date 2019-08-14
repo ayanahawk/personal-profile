@@ -1,0 +1,17 @@
+
+.skills-row {
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    display: grid;
+    
+grid-template-columns: [start] 3fr [mid] 1fr [end];
+grid-template-columns: 3fr 1fr;
+
+}
+
+    
+
+     
