@@ -51,6 +51,8 @@ li a{
    
   }
 
+ 
+
   .border{
     border: 1em solid;
     border-width: 10px;
@@ -64,3 +66,17 @@ li a{
     margin-top: 120px
   }
 
+
+  
+
+  .web-info{
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr); 
+    padding:2rem;
+}
+
+.web-info p{
+    padding: 0 5rem; 
+    font-size:20px; 
+    line-height: 2.2rem;
+}
