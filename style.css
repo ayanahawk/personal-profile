@@ -5,6 +5,7 @@
 
 body{
     margin: 0;
+    background-color: #F0F0F0
 }
 
 html{
@@ -71,7 +72,7 @@ li a{
 
   .web-info{
     display: grid; 
-    grid-template-columns: repeat(2, 1fr); 
+    grid-template-columns: repeat(2, 2fr); 
     padding:2rem;
 }
 
