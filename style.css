@@ -5,7 +5,9 @@
 
 body{
     margin: 0;
-    background-color: #F0F0F0
+    background: rgb(158,158,163);
+background: linear-gradient(90deg, rgba(158,158,163,1) 0%, rgba(208,202,227,1) 100%, rgba(42,17,119,1) 100%, rgba(0,212,255,1) 100%);
+    
 }
 
 html{
@@ -34,7 +36,7 @@ li{
 
 li a{
     display: block;
-    color: white;
+    color: rgb(158,158,163);
     text-align: center; 
     padding: 10px 16px; 
     text-decoration: none;
@@ -60,7 +62,6 @@ li a{
     padding: 30px;
     margin-left: -50px; /* margin is -0.5 * dimension */
     margin-top: 25px; 
-    color: azure;
     margin-top:10px;
    margin:auto;
     width: 30%;
