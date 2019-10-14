@@ -76,6 +76,11 @@ li a{
     padding:2rem;
 }
 
+#github{
+    margin-right: 500px; /* margin is -0.5 * dimension */
+    float: left;
+
+}
 .web-info p{
     padding: 0 5rem; 
     font-size:17px; 
