@@ -78,6 +78,10 @@ li a{
 
 .web-info p{
     padding: 0 5rem; 
-    font-size:20px; 
+    font-size:17px; 
     line-height: 2.2rem;
+}
+
+.web-info p span{
+    font-weight: bold;
 }
