@@ -1,0 +1,19 @@
+header{
+    padding: 10px 1rem;
+    background-color:rgba(228, 222, 222, 0.705);
+    
+}
+
+header nav ul li{
+display: inline;
+}
+
+
+
+.default-header{
+    padding: 0%;
+    position: absolute;
+
+}
+
+

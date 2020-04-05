@@ -1,0 +1,13 @@
+#hero {
+    min-height: 550px;
+    padding: 0px;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/hero.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.hero-text{
+    color: white;
+    text-align: center
+}
