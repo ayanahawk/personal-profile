@@ -1,7 +1,7 @@
 #hero {
-    min-height: 800px;
+    min-height: 700px;
     padding: 0px;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/lit.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/lit2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -9,5 +9,6 @@
 
 .hero-text{
     color: white;
+    font-size: 23px;
     text-align: center
 }
